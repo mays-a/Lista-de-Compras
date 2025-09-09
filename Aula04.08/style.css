@@ -10,8 +10,8 @@
     --cor-secundaria: #c23794;
     --neutro: #F9F9F9;
     --preto: #131730;
-    --fonte-titulo: "Krona One", sans-serif;
-    --fonte-texto: 'Numans', sans-serif;
+    --fonte-titulo: "Oranienbaum", serif;
+    --fonte-texto: 'verdana', sans-serif;
     --degrade-azul: linear-gradient(180deg, #0f010e 0%, #79127c 100%);
 }
 
@@ -202,4 +202,5 @@ li {
   border: none; 
   cursor: pointer;
   font-size: 1.2rem;
+
 }
