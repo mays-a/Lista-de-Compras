@@ -196,7 +196,7 @@ li {
 }
 
 .botao-editar {
-  background-color: #ffffff; 
+  background-color: #F9F9F9; 
   color: #79127c; 
   padding: 10px 2px; 
   border: none; 
@@ -204,3 +204,4 @@ li {
   font-size: 1.2rem;
 
 }
+
